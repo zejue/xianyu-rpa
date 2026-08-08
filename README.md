@@ -21,53 +21,6 @@
 
 <br>
 
-<!-- 📷 图片位 ②：产品主视觉 Banner（建议 1280×420，文件放至 assets/banner.png） -->
-<img src="assets/banner.png" alt="产品 Banner" width="100%">
-
----
-
----
-
-## 🖥️ 在线演示
-
-**演示站地址**：[https://你的演示站地址.com](https://你的演示站地址.com)
-**演示账号**：`demo`（密码：`123456`）　← 没有账号体系就删掉这行
-
-<!-- 📷 图片位 ⑨：演示站 / 演示视频二维码（建议 300×300，文件放至 assets/qrcode/demo.png） -->
-<div align="center">
-<img src="assets/qrcode/demo.png" width="220" alt="演示二维码">
-<br><sub>手机扫码，直接体验</sub>
-</div>
-
----
-
-## 📮 联系作者
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <!-- 📷 图片位 ⑩：微信客服二维码（assets/qrcode/wechat.png） -->
-      <img src="assets/qrcode/wechat.png" width="180" alt="微信客服"><br>
-      <b>💬 微信客服</b><br>
-      <sub>添加备注「GitHub」</sub>
-    </td>
-    <td align="center">
-      <!-- 📷 图片位 ⑪：QQ群 / 售后社群二维码（assets/qrcode/group.png） -->
-      <img src="assets/qrcode/group.png" width="180" alt="售后社群"><br>
-      <b>🤝 售后社群</b><br>
-      <sub>QQ群：123456789</sub>
-    </td>
-    <td align="center">
-      <b>📖 产品使用说明</b><br>
-      <a href="https://ecnmf882ht3e.feishu.cn/wiki/UtDnwMBSviUIRWk4uxxcnbOBnKb">飞书文档</a><br><br>
-      <b>📧 商务邮箱</b><br>
-      <a href="mailto:your@email.com">your@email.com</a>
-    </td>
-  </tr>
-</table>
-
-> 💡 会员购买、定制需求、Bug 反馈，以上任意渠道均可联系，看到必回！
-
 ## 🏆 独家亮点
 
 > ### 💬 多账号聚合聊天 —— 目前全网独家 🔥
@@ -75,14 +28,15 @@
 > 一块屏幕，聚合所有账号、所有会话。
 > 多终端 · 多账号 · 多设备同时在线，从此告别 N 台手机来回切换。
 
-<!-- 📷 图片位 ③：多账号聚合聊天界面截图（文件放至 assets/screenshots/chat.png） -->
-<img src="assets/screenshots/chat.png" alt="多账号聚合聊天" width="100%">
+| 💻 网页端 · 聚合聊天后台 | 📱 手机端 · 多设备同时在线 |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/a800885c-9d34-4dc1-9f38-db5429982acf" width="560" alt="网页端 · 聚合聊天后台"> | <img src="https://github.com/user-attachments/assets/b35ea66d-2e7e-48c8-be23-a94d203eba28" width="130" alt="手机端 2"> |
+
 
 | 能力 | 说明 |
 | :---: | :--- |
 | 🔄 历史同步 | 自动同步历史会话与聊天记录，老客户无缝接管 |
-| 🧑‍🤝🧑 多号聚合 | N 个账号一屏统一接待，消息不再东奔西走 |
-| 💰 会话内办单 | 聊天窗口直接改价 + 手动发货，一气呵成 |
+| 💬 多号聚合 | N 个账号一屏统一接待，消息不再东奔西走 |
 | 🔔 未读提醒 | 未读消息实时提醒，重要买家零遗漏 |
 
 💡 **普通付费会员即可免费使用【闲鱼多账号聚合聊天】系统。**
@@ -131,22 +85,18 @@
 <table>
   <tr>
     <td align="center">
-      <!-- 📷 图片位 ④：数据总览截图（assets/screenshots/dashboard.png） -->
-      <img src="assets/screenshots/dashboard.png" width="400" alt="数据总览"><br>📊 数据总览
+      <img src="https://github.com/user-attachments/assets/6cbbd34e-2bca-4719-8b1f-befb67e0ce54" width="400" alt="数据总览"><br>📊 数据总览
     </td>
     <td align="center">
-      <!-- 📷 图片位 ⑤：发货规则配置截图（assets/screenshots/delivery.png） -->
-      <img src="assets/screenshots/delivery.png" width="400" alt="发货规则"><br>📦 发货规则配置
+      <img src="https://github.com/user-attachments/assets/39bd774f-c700-49cf-8daf-5082260174c9" width="400" alt="发货规则"><br>📦 发货规则配置
     </td>
   </tr>
   <tr>
     <td align="center">
-      <!-- 📷 图片位 ⑥：自动回复 / AI 客服配置截图（assets/screenshots/reply.png） -->
-      <img src="assets/screenshots/reply.png" width="400" alt="自动回复"><br>💬 AI 自动回复
+      <img src="https://github.com/user-attachments/assets/bf707159-dbbf-488b-94df-948aed031f0a" width="400" alt="自动回复"><br>💬 AI 自动回复
     </td>
     <td align="center">
-      <!-- 📷 图片位 ⑦：商品发布 / 搬运截图（assets/screenshots/publish.png） -->
-      <img src="assets/screenshots/publish.png" width="400" alt="商品发布"><br>🛒 商品发布 / 搬运
+      <img src="https://github.com/user-attachments/assets/7014c3da-5eea-440e-8c6e-0b6e7586139f" width="400" alt="商品发布"><br>🛒 商品发布 / 搬运
     </td>
   </tr>
 </table>
@@ -158,34 +108,17 @@
 | 优势 | 说明 |
 | :---: | :--- |
 | 🔐 数据安全 | 聊天记录、交易数据、商品配置**全部本地存储**，不上传云端，杜绝泄露 |
-| 🌐 独立 IP | 不与他人共用服务器 IP，避免 IP 关联限流封控、异地登录风险 |
-| 🪨 极致稳定 | 常用设备 + 常用网络运行，稳定，稳定，还是稳定 |
+| 🚀 独立的IP | 不与他人共用服务器 IP，避免 IP 关联限流封控、异地登录风险 |
+| ✅ 极致稳定 | 常用设备 + 常用网络运行，稳定，稳定，还是稳定 |
 | 🤝 长期售后 | 持续更新维护，专属售后群，问题及时响应 |
 
 ---
 
 ## 🚀 快速开始
 
-### 使用前提
-
-1. 所有接入账号需已开通 **鱼小铺**；
-2. 已下载程序所需的 `playwright-runtime` 压缩包与主程序 `exe`；
-3. 解压后的目录结构必须如下图所示。
-
-<!-- 📷 图片位 ⑧：解压目录结构截图（assets/screenshots/folder.png） -->
-<img src="assets/screenshots/folder.png" alt="目录结构" width="60%">
-
-### 三步上手
-
-```
-① 解压程序包，确认目录结构无误
-② 双击运行主程序
-③ 默认账号一键登录（本地部署，配置数据不联网），开始配置你的账号与规则
-```
-
-> 更多复杂功能（聚合聊天、批量规则、AI 文案等）请参阅仓库内《使用说明》文档。
-
----
+1. 管理员获取激活码
+2. 下载程序所需的压缩包与主程序 `exe`；
+3. 双击`exe`运行挂机即可
 
 ## ❓ 常见问题
 
@@ -199,17 +132,11 @@
 <br>A：系统运行在你自己的常用设备与常用网络下，拥有独立 IP，不存在云服务器多人共用 IP 的关联风险。
 </details>
 
-<details>
-<summary><b>Q：没有开通鱼小铺可以用吗？</b></summary>
-<br>A：暂不支持。所有功能均基于鱼小铺账号能力设计，请先开通鱼小铺。
-</details>
-
 ---
 
 ## ⚠️ 免责声明
 
-本项目仅用于卖家日常经营的效率辅助与学习交流。请遵守《闲鱼社区用户规范》及相关法律法规，
-因违规使用产生的一切后果由使用者自行承担。
+本项目仅用于卖家日常经营的效率辅助与学习交流。请遵守《闲鱼社区用户规范》及相关法律法规
 
 ---
 
