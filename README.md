@@ -26,6 +26,48 @@
 
 ---
 
+---
+
+## 🖥️ 在线演示
+
+**演示站地址**：[https://你的演示站地址.com](https://你的演示站地址.com)
+**演示账号**：`demo`（密码：`123456`）　← 没有账号体系就删掉这行
+
+<!-- 📷 图片位 ⑨：演示站 / 演示视频二维码（建议 300×300，文件放至 assets/qrcode/demo.png） -->
+<div align="center">
+<img src="assets/qrcode/demo.png" width="220" alt="演示二维码">
+<br><sub>手机扫码，直接体验</sub>
+</div>
+
+---
+
+## 📮 联系作者
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- 📷 图片位 ⑩：微信客服二维码（assets/qrcode/wechat.png） -->
+      <img src="assets/qrcode/wechat.png" width="180" alt="微信客服"><br>
+      <b>💬 微信客服</b><br>
+      <sub>添加备注「GitHub」</sub>
+    </td>
+    <td align="center">
+      <!-- 📷 图片位 ⑪：QQ群 / 售后社群二维码（assets/qrcode/group.png） -->
+      <img src="assets/qrcode/group.png" width="180" alt="售后社群"><br>
+      <b>🤝 售后社群</b><br>
+      <sub>QQ群：123456789</sub>
+    </td>
+    <td align="center">
+      <b>📖 产品使用说明</b><br>
+      <a href="https://ecnmf882ht3e.feishu.cn/wiki/UtDnwMBSviUIRWk4uxxcnbOBnKb">飞书文档</a><br><br>
+      <b>📧 商务邮箱</b><br>
+      <a href="mailto:your@email.com">your@email.com</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 会员购买、定制需求、Bug 反馈，以上任意渠道均可联系，看到必回！
+
 ## 🏆 独家亮点
 
 > ### 💬 多账号聚合聊天 —— 目前全网独家 🔥
