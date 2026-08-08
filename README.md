@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- 📷 图片位 ①：项目 Logo（建议 120×120，文件放至 assets/logo.png） -->
-![0cb35c88-0821-450e-ad57-1902ed1c8b99](https://github.com/user-attachments/assets/c3914928-a9df-447b-a91e-5723a4e96f8f)
-
+<img width="96" height="96" alt="0cb35c88-0821-450e-ad57-1902ed1c8b99 (1)" src="https://github.com/user-attachments/assets/6b16114e-ecaf-43da-b409-5b6d8f763091" />
 
 # 🐟 闲鱼辅助系统
 
