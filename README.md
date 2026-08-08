@@ -157,3 +157,7 @@
 **如果本项目帮到了你，请点亮一颗 Star ⭐，这是对持续更新最大的支持！**
 
 </div>
+
+## 🔗 相关项目
+
+- [Mars-Scan 百度网盘扫码登录系统](https://github.com/zejue/Mars-Scan-Code-Aggregation) —— 第三方网盘扫码授权与卡密管理中台
