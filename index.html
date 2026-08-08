@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>闲鱼辅助系统 - 授权与技术支持</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    color: #333;
+  }
+  .card {
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+  h1 { font-size: 24px; margin-bottom: 8px; color: #111; }
+  .sub { color: #666; margin-bottom: 30px; font-size: 14px; }
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin: 12px 0;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .btn-primary { background: #0066ff; color: white; box-shadow: 0 4px 15px rgba(0, 102, 255, 0.3); }
+  .btn-primary:hover { background: #0052cc; transform: translateY(-2px); }
+  .btn-secondary { background: #f0f0f5; color: #555; }
+  .btn-secondary:hover { background: #e5e5ea; }
+  
+  /* 弹窗样式 */
+  .modal-overlay {
+    display: none;
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    align-items: center; justify-content: center;
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+  }
+  .modal-content {
+    background: white; padding: 30px; border-radius: 20px; text-align: center;
+    max-width: 320px; width: 90%; position: relative;
+    animation: zoomIn 0.3s ease-out;
+  }
+  @keyframes zoomIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+  .close-btn {
+    position: absolute; top: 15px; right: 20px; font-size: 28px;
+    cursor: pointer; color: #999; transition: 0.2s;
+  }
+  .close-btn:hover { color: #333; }
+  .qr-img {
+    width: 220px; height: 220px; background: #f8f8f8; margin: 20px auto;
+    display: block; border-radius: 12px; border: 1px solid #eee;
+  }
+  .hint { font-size: 12px; color: #888; margin-top: 15px; }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <h1>🐟 闲鱼辅助系统</h1>
+  <p class="sub">这里是系统授权中心与技术支持站</p>
+  <p>请问您访问此页面的目的是？</p>
+  
+  <button class="btn btn-primary" onclick="showModal()">🔑 我需要获取激活码</button>
+  <button class="btn btn-secondary" onclick="wrongClick()">👋 不好意思，点错了</button>
+</div>
+  
+
+<div id="qrModal" class="modal-overlay">
+  <div class="modal-content">
+    <span class="close-btn" onclick="hideModal()">&times;</span>
+    <h2>获取激活码 / 技术支持</h2>
+    <p>请扫描下方二维码添加管理员</p>
+    <!-- 👇👇👇 替换下面 src 里的链接 👇👇👇 -->
+    <img src="" class="qr-img" alt="管理员微信">
+    <p class="hint">💬 添加时请备注：GitHub 激活</p>
+  </div>
+</div>
+
+<script>
+  function showModal() {
+    document.getElementById('qrModal').style.display = 'flex';
+  }
+  function hideModal() {
+    document.getElementById('qrModal').style.display = 'none';
+  }
+  function wrongClick() {
+    alert("没关系，祝您今天开心！页面即将跳转...");
+    // 点错了就给他跳回 GitHub 首页，避免尴尬
+    window.location.href = "https://github.com";
+  }
+</script>
+
+</body>
+</html>
