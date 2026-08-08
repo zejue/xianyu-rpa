@@ -8,7 +8,15 @@
 # 🐟 闲鱼辅助系统
 
 **一站式闲鱼卖家智能运营助手**
-把重复交给系统，把时间留给生意
+### 🚀 2026 最新版闲鱼卖家智能运营助手
+
+<div align="center">
+
+![2026最新版](https://img.shields.io/badge/2026最新版-持续更新-orange?style=flat-square)
+![最新版本](https://img.shields.io/github/v/release/zejue/xianyu-rpa?style=flat-square&color=blue)
+![最后更新](https://img.shields.io/github/last-commit/zejue/xianyu-rpa?style=flat-square&color=success)
+
+</div>
 
 ![Version](https://img.shields.io/badge/Version-v1.0.0-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-8A2BE2?style=flat-square)
