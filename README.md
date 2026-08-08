@@ -21,6 +21,20 @@
 
 <br>
 
+---
+
+<div align="center">
+
+# 获取激活码
+
+<a href="https://zejue.github.io/xianyu-rpa/">
+  <img src="https://img.shields.io/badge/点击进入-0066FF?style=for-the-badge" width="460" alt="获取激活码">
+</a>
+
+</div>
+
+---
+
 ## 🏆 独家亮点
 
 > ### 💬 多账号聚合聊天 —— 目前全网独家 🔥
