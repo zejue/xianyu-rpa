@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 📷 图片位 ①：项目 Logo（建议 120×120，文件放至 assets/logo.png） -->
-<img src="assets/logo.png" width="120" alt="Logo">
+blob:chrome-extension://odphnbhiddhdpoccbialllejaajemdio/708fd559-bbd1-4251-88f0-d83440bee2cb
 
 # 🐟 闲鱼辅助系统
 
