@@ -38,7 +38,7 @@
 
 | 💻 网页端 · 聚合接待后台 | 📱 手机端 · 多设备同时在线 |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/a800885c-9d34-4dc1-9f38-db5429982acf" width="560" alt="网页端 · 聚合接待后台"> | <img src="https://github.com/user-attachments/assets/b35ea66d-2e7e-48c8-be23-a94d203eba28" width="130" alt="手机端 2"> |
+| <img src="https://github.com/user-attachments/assets/0bbcaa35-2543-4aa9-8e7a-ae21521da21e" width="560" alt="网页端 · 聚合接待后台"> | <img src="https://github.com/user-attachments/assets/b9c0cebf-f18c-40cb-a672-ac27fde05ec2" width="130" alt="手机端 2"> |
 
 
 | 能力 | 说明 |
